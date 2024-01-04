@@ -1,0 +1,79 @@
+.image_logo
+{
+    width: 35px;
+    height: 35px;
+}
+.image_logo1
+{
+    width: 40px;
+    height: 40px;
+}
+.image_logo2
+{
+    width: 30px;
+    height: 30px;
+}
+.image_logo3
+{
+    width: 40px;
+    height: 40px;
+}
+.myimage
+{
+    width: 270px;
+    height: 550px;
+    align-content: right;
+}
+.abc
+{
+    border-color: black;
+    border-width: 1px;
+    border-style: double;
+}
+
+body {
+    font-family: "Sofia", sans-serif;
+  }
+
+.desc_tech
+{
+    font-family: "roboto", sans-serif;  
+}
+.desc_tech1
+{
+    
+    font-family: "roboto", sans-serif;  
+}
+.desc_intro
+{
+    font-family: "sofia", sans-serif;  
+    color:cornflowerblue;
+    size: 72px;
+    align:right;
+}
+.desc_tech_intro
+{
+    font-family: "roboto", sans-serif;
+    color: darkgreen;
+    
+}
+ol
+{
+    color: darkgreen;
+}
+.col-4
+{
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(174, 233, 252));
+}
+.skill
+{
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 500;
+    font-style: italic;
+}
+button
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
